@@ -2,7 +2,7 @@
   "name": "temp1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jirengu-inc.github.io/react1",
+  "homepage": "https://jirengu-inc.github.io/react1/build",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
