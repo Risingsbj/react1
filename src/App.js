@@ -12,8 +12,6 @@ class App extends Component {
      this.state = {
        newTodo: 'test',
        todoList: [
-        {id:1, title:'第一个待办'},
-        {id:2, title:'第二个待办'},
        ]
      }
    }
@@ -62,7 +60,7 @@ class App extends Component {
      })
      this.setState({
        newTodo: '',
-        todoList: this.state.todoList
+       todoList: this.state.todoList
       })
   }
   delete(event, todo){
