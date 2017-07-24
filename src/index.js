@@ -5,6 +5,6 @@ import './index.css';
 
 
 ReactDOM.render(
-  <Welcome name="sun"/>,
+  <App />,
   document.getElementById('root')
 )
